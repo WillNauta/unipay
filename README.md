@@ -1,6 +1,6 @@
 # unipay
 
-This is un pr
+This is a web development project, in which we will be creating a laboratory in which we want to be able to make payments through an application, in which each user can charge money or bonuses to their account, and from there make payment directly to other users.
 
 | [Preriquisites]|
 | ---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------|
